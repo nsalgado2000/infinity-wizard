@@ -1,4 +1,4 @@
-# Calculadora de Terminal (Projeto Recreativo)
+# Infinity Wizard
 
 Este é um pequeno projeto de calculadora em C++ que roda no terminal. Foi criado apenas recreativamente.
 
